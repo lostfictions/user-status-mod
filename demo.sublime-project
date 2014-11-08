@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+      "folder_exclude_patterns": [
+        ".meteor/local",
+        ".build*",
+        ".npm"
+      ],
+      "file_exclude_patterns": [
+        ".jshintrc",
+        ".editorconfig",
+        "*.sublime-project",
+        ".git*"
+      ]
+		}
+	]
+}

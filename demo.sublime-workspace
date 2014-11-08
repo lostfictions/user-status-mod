@@ -1,0 +1,1126 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"req",
+				"require (fn)"
+			],
+			[
+				"resu",
+				"results ([])"
+			],
+			[
+				"wr",
+				"writeFileSync (fn)"
+			],
+			[
+				"re",
+				"retryablePostStatus (fn)"
+			],
+			[
+				"medi",
+				"mediaIds"
+			],
+			[
+				"un",
+				"unlinkSync (fn)"
+			],
+			[
+				"r",
+				"readFileSync (fn)"
+			],
+			[
+				"json",
+				"JSON"
+			],
+			[
+				"set",
+				"setTimeout (fn)"
+			],
+			[
+				"upl",
+				"uploadAll (?)"
+			],
+			[
+				"media",
+				"media_data"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"media_",
+				"media_id"
+			],
+			[
+				"rs",
+				"response (?)"
+			],
+			[
+				"readf",
+				"readFileSync (fn)"
+			],
+			[
+				"ex",
+				"existsSync (fn)"
+			],
+			[
+				"p",
+				"post (fn)"
+			],
+			[
+				"js",
+				"jshint"
+			],
+			[
+				"sr",
+				"script	Tag"
+			],
+			[
+				"fro",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"f",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"colla",
+				"collapsed"
+			],
+			[
+				"reg",
+				"regionElem"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"venue",
+				"venueName"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"locati",
+				"locationId"
+			],
+			[
+				"loca",
+				"locationId"
+			],
+			[
+				"body",
+				"body-yellow"
+			],
+			[
+				"has",
+				"hasDetails"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"ba",
+				"badges-desc"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"sw",
+				"swLeast"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"body-",
+				"body-yellow"
+			],
+			[
+				"backc",
+				"background-color"
+			],
+			[
+				"fotn",
+				"font-size"
+			],
+			[
+				"bacc",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"map",
+				"mapId"
+			],
+			[
+				"rge",
+				"regionProps"
+			],
+			[
+				"regi",
+				"regionProps"
+			],
+			[
+				"tile",
+				"tileLayer"
+			],
+			[
+				"add",
+				"addMapMarkers"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ver",
+				"verticesNeedUpdate"
+			],
+			[
+				"debu",
+				"debugContourGeometry"
+			],
+			[
+				"view",
+				"viewGeometry"
+			],
+			[
+				"up",
+				"updateVisibility"
+			],
+			[
+				"inn",
+				"innerWidth"
+			],
+			[
+				"Mesh",
+				"MeshBasicMaterial"
+			],
+			[
+				"forma",
+				"formattedShape"
+			],
+			[
+				"inne",
+				"innerHeight"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".meteor/packages",
+			"settings":
+			{
+				"buffer_size": 284,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"con",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"prefere",
+				"Preferences: Settings - User"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"coffe",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"co",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"wra",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"ws	",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"ws",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"wra	",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"wst",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"wsb",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"sbc",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"bra",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"git",
+				"Git: Quick Commit"
+			],
+			[
+				"diff",
+				"Git: Diff All Files"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"gfmp",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"gfm",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"ssss",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ssba",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"plugin",
+				"SublimeLinter: Create Linter Plugin"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"lin",
+				"Coffee: Lint"
+			],
+			[
+				"lint",
+				"Coffee: Lint"
+			],
+			[
+				"subli",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"enab",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"java",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"coff",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"ssco",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 335.0,
+		"history":
+		[
+			"nautilus .",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/s/Code/Meteor/meteor-user-status/demo",
+		"/home/s/Code/Meteor/meteor-user-status/demo/.meteor"
+	],
+	"file_history":
+	[
+		"/home/s/Code/Meteor/meteor-user-status/demo/demo.sublime-project",
+		"/home/s/Code/Meteor/meteor-user-status/.gitignore",
+		"/home/s/Code/Meteor/meteor-user-status/status.coffee",
+		"/home/s/Code/Meteor/meteor-user-status/demo/demo.css",
+		"/home/s/Code/Meteor/meteor-user-status/demo/demo.html",
+		"/home/s/Code/Meteor/meteor-user-status/demo/meteor.sublime-project",
+		"/home/s/Code/Meteor/meteor-user-status/demo/meteor.sublime-workspace",
+		"/home/s/Code/Meteor/meteor-user-status/demo/README.md",
+		"/home/s/Code/Meteor/meteor-user-status/demo/.editorconfig",
+		"/home/s/Code/Meteor/meteor-user-status/demo/.jshintrc",
+		"/home/s/Code/clj/lein-figwheel-bird-demo/src/flappy_bird_demo/core.cljs",
+		"/home/s/Desktop/quot",
+		"/home/s/Code/Atom-Shell/atom-shell-v0.19.0-linux-x64/resources/atom/browser/lib/init.js",
+		"/home/s/Code/Atom-Shell/atom-shell-v0.19.0-linux-x64/resources/default_app/package.json",
+		"/home/s/Code/Meteor/meteor-user-status/demo/client/demo.next.js",
+		"/home/s/Code/Meteor/meteor-user-status/demo/server/demo.next.js",
+		"/home/s/Code/Meteor/meteor-user-status/demo/packages/temp-harmony/plugin/compile-harmony.js",
+		"/home/s/Code/Meteor/meteor-user-status/demo/packages/temp-harmony/.npm/plugin/compileHarmony/node_modules/traceur/package.json",
+		"/home/s/Code/Meteor/meteor-user-status/demo/packages/temp-harmony/package.js",
+		"/home/s/Code/Meteor/meteor-user-status/demo/packages/temp-harmony/versions.json",
+		"/home/s/Code/Meteor/meteor-user-status/demo/packages/temp-harmony/.gitignore",
+		"/home/s/Code/Meteor/meteor-user-status/demo/packages/temp-harmony/.npm/plugin/compileHarmony-new-1azko62/npm-debug.log",
+		"/home/s/Code/Meteor/meteor-user-status/demo/packages/poop/package.js",
+		"/home/s/Code/Meteor/meteor-user-status/demo/packages/meteor-harmony/package.js",
+		"/home/s/Code/Meteor/meteor-user-status/demo/packages/temp-harmony/temp-harmony.js",
+		"/home/s/Code/Meteor/meteor-user-status/demo/packages/myharmony/os.json",
+		"/home/s/Code/Meteor/meteor-user-status/demo/packages/myharmony/unipackage.json",
+		"/home/s/Code/Meteor/meteor-user-status/demo/packages/myharmony/package.js",
+		"/home/s/Code/Meteor/meteor-user-status/demo/.meteor/packages",
+		"/home/s/Code/Meteor/meteor-user-status/demo/.meteor/.id",
+		"/home/s/Code/Meteor/meteor-user-status/demo/.meteor/versions",
+		"/home/s/Code/Meteor/meteor-user-status/demo/.meteor/identifier",
+		"/home/s/Code/Meteor/meteor-user-status/demo/.meteor/local/build/star.json",
+		"/home/s/Code/Meteor/meteor-user-status/demo/server/.jshintrc",
+		"/home/s/Code/Meteor/meteor-user-status/demo/client/.jshintrc",
+		"/home/s/Code/Meteor/meteor-user-status/demo/.meteor/.gitignore",
+		"/home/s/Code/Meteor/meteor-user-status/demo/packages/.gitignore",
+		"/home/s/Code/Meteor/meteor-user-status/demo/smart.json",
+		"/home/s/Code/Meteor/meteor-user-status/demo/smart.lock",
+		"/home/s/Desktop/Squeak-4.5-All-In-One/Squeak-4.5-All-in-One.app/Contents/LinuxAndWindows/squeak.sh",
+		"/home/s/Desktop/Squeak-4.5-All-In-One/squeak.sh",
+		"/home/s/Code/Meteor/meteor-user-status/demo/demo.coffee",
+		"/home/s/Code/Meteor/MeteorTest/.meteor/release",
+		"/home/s/Code/Meteor/MeteorTest/.meteor/packages",
+		"/home/s/Desktop/footer.php",
+		"/home/s/Desktop/footer-fr.php",
+		"/run/user/1000/gvfs/ftp:host=ftp.easternbloc.ca/public_html/footer.php",
+		"/run/user/1000/gvfs/ftp:host=ftp.easternbloc.ca/public_html/footer-fr.php",
+		"/home/s/Desktop/Metal Max Readme.txt",
+		"/home/s/Code/Meteor/MeteorTest/MeteorTest.js",
+		"/home/s/Code/Meteor/example-todos/server/bootstrap.js",
+		"/home/s/Code/Meteor/example-parties/model.js",
+		"/home/s/Code/Meteor/example-parties/server/server.js",
+		"/home/s/Code/Meteor/example-parties/client/client.js",
+		"/home/s/Code/Meteor/example-parties/client/parties.html",
+		"/home/s/Code/Meteor/example-parties/client/parties.css",
+		"/home/s/Code/Meteor/example-leaderboard/leaderboard.html",
+		"/home/s/Code/Meteor/example-leaderboard/leaderboard.js",
+		"/home/s/Code/Meteor/example-leaderboard/leaderboard.css",
+		"/home/s/Code/Meteor/example-leaderboard/.meteor/.finished-upgraders",
+		"/home/s/Code/Meteor/example-leaderboard/.meteor/versions",
+		"/home/s/Code/Meteor/example-leaderboard/.meteor/release",
+		"/home/s/Code/Meteor/example-leaderboard/.meteor/packages",
+		"/home/s/Code/este-app/README.md",
+		"/home/s/Code/jekyll-bootstrap-master/README.md",
+		"/home/s/Code/lein-cljsbuild/README.md",
+		"/home/s/Code/roglik/bower.json",
+		"/home/s/Code/meteor-mobile-test/examples/solomo/devshop-demo.js",
+		"/home/s/Code/meteor-mobile-test/examples/solomo/client/routes.js",
+		"/home/s/Code/meteor-mobile-test/examples/solomo/devshop-demo.html",
+		"/home/s/Code/meteor-mobile-test/examples/solomo/devshop-demo.css",
+		"/home/s/Code/meteor-mobile-test/examples/solomo/settings.json",
+		"/home/s/Code/meteor-mobile-test/examples/simple-map/map.js",
+		"/home/s/Code/meteor-mobile-test/examples/simple-map/map.html",
+		"/home/s/Code/meteor-mobile-test/examples/simple-map/.meteor/local/cordova-build/config.xml",
+		"/home/s/Code/meteor-mobile-test/examples/simple-map/.meteor/packages",
+		"/home/s/.bashrc",
+		"/home/s/.meteor/android_bundle/.bundle_version.txt",
+		"/home/s/Code/testbot/js/main.js",
+		"/home/s/Code/testbot/package.json",
+		"/etc/default/grub",
+		"/home/s/Desktop/android-sdk-linux/SDK Readme.txt",
+		"/home/s/Desktop/nams.txt",
+		"/home/s/Code/verse.js/verse.js",
+		"/home/s/Code/verse.js/gulpfile.coffee",
+		"/home/s/Code/verse.js/versejs.sublime-project",
+		"/home/s/Code/verse.js/.gitignore",
+		"/home/s/Code/verse.js/jsn/verse.js",
+		"/home/s/Code/verse.js/package.json",
+		"/home/s/Code/verse.js/.jshintrc",
+		"/home/s/Code/este-app/gulpfile.coffee",
+		"/home/s/Code/verse.js/verse.jsn",
+		"/home/s/Code/verse.js/README.md",
+		"/home/s/Code/testbot/README.md",
+		"/home/s/Code/verse.js/sfmaker.js",
+		"/home/s/Code/verse.js/UNEP.as",
+		"/home/s/Desktop/testbot/js/main.js",
+		"/home/s/Desktop/testbot/.gitignore",
+		"/home/s/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/s/Desktop/testbot/bower_components/pleasejs/src/Please.js",
+		"/home/s/Desktop/testbot/bower_components/pleasejs/dist/Please.js",
+		"/home/s/Desktop/testbot/node_modules/pleasejs/Please.js",
+		"/home/s/Desktop/testbot/node_modules/pleasejs/Please",
+		"/home/s/Desktop/testbot/pendingUploads.txt",
+		"/home/s/Desktop/testbot/debug.sh",
+		"/home/s/Desktop/testbot/.tern-project",
+		"/home/s/Desktop/testbot/run.sh",
+		"/home/s/Desktop/testbot/run.js",
+		"/home/s/.config/sublime-text-3/Packages/tern_for_sublime/node_modules/tern/package.json",
+		"/home/s/.config/sublime-text-3/Packages/tern_for_sublime/node_modules/tern/bin/from_ts",
+		"/home/s/.config/sublime-text-3/Packages/tern_for_sublime/node_modules/tern/lib/typescript.js",
+		"/home/s/Desktop/testbot/node_modules/form-data/lib/form_data.js",
+		"/home/s/Desktop/testbot/node_modules/form-data/package.json",
+		"/home/s/Desktop/testbot/node_modules/fs/package.json",
+		"/home/s/Desktop/testbot/node_modules/fs/index.js",
+		"/home/s/.config/Brackets/state.json",
+		"/home/s/.config/Brackets/brackets.json",
+		"/home/s/Desktop/testbot/package.json",
+		"/home/s/.config/sublime-text-3/Packages/tern_for_sublime/tern.py",
+		"/home/s/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/s/.config/sublime-text-3/Packages/User/Monokai (SL).tmTheme",
+		"/home/s/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/s/.config/sublime-text-3/Cache/Color",
+		"/home/s/Scheme",
+		"/home/s/.config/sublime-text-3/Packages/Default/-",
+		"/home/s/Default/Monokai.tmTheme.cache",
+		"/home/s/Desktop/testbot/node_modules/twit/lib/twitter.js",
+		"/home/s/.config/sublime-text-3/Packages/tern_for_sublime/README.md"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Handlebars",
+			"loginb",
+			"where am i",
+			"async",
+			"Promise",
+			"export",
+			"es6",
+			"            ",
+			"bodyObject",
+			"body",
+			"bodyObject",
+			"resp",
+			"/home/s/.config/sublime-text-3/Packages/tern_for_sublime/node_modules/",
+			"cdat",
+			"status",
+			"form",
+			"font",
+			"hello",
+			",\n		{\n			\"path\": \"dist\",\n			\"file_exclude_patterns\": [\"*.git*\"]\n		}",
+			"require",
+			"GRUB_SAVEDEFAULT",
+			" %",
+			"command",
+			"rende",
+			"React",
+			"file",
+			"let",
+			"var",
+			"form-label ",
+			"flex",
+			"locationElem",
+			"locationId",
+			"icon-font-path",
+			"glyphicon",
+			"time",
+			"modal",
+			"<b>",
+			"sm",
+			"row ",
+			"row",
+			"row ",
+			"visible-lg",
+			"visible-md",
+			"md",
+			"badges-row",
+			"0",
+			"swLeast",
+			"0",
+			"AX",
+			"badges-badge",
+			"badges-desc",
+			"badges-row",
+			"img-responsive",
+			"col-xs-1",
+			"col-xs-10 col-xs-offset-1",
+			"badges-badge",
+			"badge-smaller",
+			"text",
+			"  ",
+			"table-striped",
+			"team",
+			"dogs",
+			"Score",
+			"Players",
+			"Team",
+			"(\"",
+			"darker",
+			"subtle",
+			"darker",
+			"title=\"",
+			"trans",
+			"<h1>",
+			"                  <h1>Special",
+			"<h1>",
+			"col-md-offset-1-half",
+			"col-md-offset",
+			"col-sm-4",
+			"30px",
+			"class=\"\">",
+			" class=\"\"",
+			"sections-item",
+			"xs",
+			" badge ",
+			" badge",
+			"badge",
+			" badge-",
+			"badge-",
+			"badge-smaller",
+			"badges-badge",
+			"brand-icon",
+			"\"<b>",
+			"<b>",
+			"Unlocks",
+			"badges-tooltip",
+			"badge-tooltip",
+			"h2",
+			"container",
+			"handleizedLocation",
+			"elem",
+			"callout",
+			"div",
+			"col-sm-offset-half",
+			"col-sm-offset-1",
+			".col-sm-offset-half",
+			"col-sm-offset-1",
+			".col-sm-offset-1",
+			"col-sm-offset-1",
+			"addMapMarkers",
+			"\\s+\\\"y\\\": ([\\d.-]+)\\s+\\}",
+			"\\s+\\\"y\\\":",
+			"\\{\\s+\\\"x\\\": ",
+			"{\\n",
+			"\"/im",
+			".form-horizontal",
+			"button",
+			"true",
+			"navbar-inverse",
+			"xs",
+			"hel",
+			"distproth",
+			"{{",
+			"yellow",
+			"font-family-sans-serif",
+			"server",
+			"serve",
+			",",
+			"app",
+			"dist"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/*export*/",
+			" \\1\\]",
+			"\\1\\]",
+			"\\1",
+			"",
+			"["
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".meteor/packages",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								283,
+								283
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clipboard_manager":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"project": "demo.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"testbot/gulpfile.coffee"
+			],
+			[
+				"im",
+				"Scripts/Impact.cs"
+			],
+			[
+				"tt",
+				"Scripts/Player/TrickTracker.cs"
+			],
+			[
+				"contro",
+				"Scripts/Player/Controls.cs"
+			],
+			[
+				"con",
+				"Scripts/Player/Controls.cs"
+			],
+			[
+				"chall",
+				"admirals-challenge-website/_src/challenge.coffee"
+			],
+			[
+				"main.l",
+				"admirals-challenge-website/_less/main.less"
+			],
+			[
+				"coffe",
+				"admirals-challenge-website/_src/challenge.coffee"
+			],
+			[
+				"variab",
+				"admirals-challenge-website/_less/variables.less"
+			],
+			[
+				"gly",
+				"_bower_components/bootstrap/less/glyphicons.less"
+			],
+			[
+				"c",
+				"admirals-challenge-website/_src/challenge.coffee"
+			],
+			[
+				"cha/in",
+				"admirals-challenge-website/index.html"
+			],
+			[
+				"main",
+				"admirals-challenge-website/css/main.css"
+			],
+			[
+				"main.c",
+				"admirals-challenge-website/css/main.css"
+			],
+			[
+				"via",
+				"admirals-challenge-website/_less/variables.less"
+			],
+			[
+				"main.css",
+				"admirals-challenge-website/css/main.css"
+			],
+			[
+				"loca",
+				"admirals-challenge-website/_data/locations.yml"
+			],
+			[
+				"challen",
+				"admirals-challenge-website/_src/challenge.coffee"
+			],
+			[
+				"va",
+				"admirals-challenge-website/_less/variables.less"
+			],
+			[
+				"vari",
+				"admirals-challenge-website/_less/variables.less"
+			],
+			[
+				"ind",
+				"admirals-challenge-website/challenge/index.html"
+			],
+			[
+				"les",
+				"admirals-challenge-website/_less/main.less"
+			],
+			[
+				"inde",
+				"admirals-challenge-website/index.html"
+			],
+			[
+				"challind",
+				"admirals-challenge-website/challenge/index.html"
+			],
+			[
+				"idn",
+				"admirals-challenge-website/_src/index.coffee"
+			],
+			[
+				"less",
+				"admirals-challenge-website/_less/main.less"
+			],
+			[
+				"resp",
+				"_bower_components/bootstrap/less/responsive-utilities.less"
+			],
+			[
+				"button",
+				"_bower_components/bootstrap/less/buttons.less"
+			],
+			[
+				"visi",
+				"js/vendor/visibility_polygon.js"
+			],
+			[
+				"ap",
+				"coffee/app.coffee"
+			],
+			[
+				"karm.js",
+				"test/karma.conf.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/testbot/proj.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
