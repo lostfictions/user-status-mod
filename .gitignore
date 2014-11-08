@@ -4,3 +4,5 @@ versions.json
 # No checking in smart.lock for a smart package
 smart.lock
 .build*
+
+*.sublime-workspace
