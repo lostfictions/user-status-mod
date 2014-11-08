@@ -36,7 +36,7 @@ Template.status.events = {
 };
 
 Template.status.helpers({
-  lastActivity: () => {
+  lastActivity: function() {
     const lastActivity = this.lastActivity();
     if(lastActivity) {
       return relativeTime(lastActivity);
@@ -53,20 +53,20 @@ Template.status.helpers({
   serverRTT: TimeSync.roundTripTime,
 
   // Falsy values aren't rendered in templates, so let's render them ourself
-  isIdleText: () => this.isIdle() || "false",
-  isMonitoringText: () => this.isMonitoring() || "false"
+  isIdleText: function() { return this.isIdle() || "false"; },
+  isMonitoringText: function() { return this.isMonitoring() || "false"; }
 });
 
 Template.serverStatus.helpers({
   anonymous: () => UserConnections.find({ userId: { $exists: false }}),
   users: () => Meteor.users.find(),
-  userClass: () => { if(this.status && this.status.idle) { return "warning"; } else { return "success"; }},
-  connections: () => UserConnections.find({ userId: this._id })
+  userClass: function() { if(this.status && this.status.idle) { return "warning"; } else { return "success"; } },
+  connections: function() { return UserConnections.find({ userId: this._id }); }
 });
 
 Template.serverConnection.helpers({
-  connectionClass: () => { if(this.idle) { return "warning"; } else { return "success"; }},
-  loginTime: () => {
+  connectionClass: function() { if(this.idle) { return "warning"; } else { return "success"; } },
+  loginTime: function() {
       if(!this.loginTime) {
         return;
       }
